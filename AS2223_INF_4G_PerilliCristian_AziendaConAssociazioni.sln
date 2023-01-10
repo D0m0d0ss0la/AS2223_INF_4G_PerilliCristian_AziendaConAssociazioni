@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AS2223_INF_4G_PerilliCristian_AziendaConAssociazioni", "AS2223_INF_4G_PerilliCristian_AziendaConAssociazioni\AS2223_INF_4G_PerilliCristian_AziendaConAssociazioni.csproj", "{03C153B5-1195-43F1-86A7-F244C077C730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestAzienda", "UnitTestAzienda\UnitTestAzienda.csproj", "{C3E2089E-35C6-4B45-9E30-54F3E66A768F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C153B5-1195-43F1-86A7-F244C077C730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C153B5-1195-43F1-86A7-F244C077C730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C153B5-1195-43F1-86A7-F244C077C730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C153B5-1195-43F1-86A7-F244C077C730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E2089E-35C6-4B45-9E30-54F3E66A768F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E2089E-35C6-4B45-9E30-54F3E66A768F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E2089E-35C6-4B45-9E30-54F3E66A768F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E2089E-35C6-4B45-9E30-54F3E66A768F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99315EA0-1766-4B27-A0A2-6FBE88E75817}
+	EndGlobalSection
+EndGlobal
