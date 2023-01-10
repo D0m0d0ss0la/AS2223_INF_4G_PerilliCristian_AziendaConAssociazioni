@@ -60,7 +60,7 @@ public class Worker : Company
 
     public override string ToString()
     {
-        return idWorker;
+        return idWorker; // -
     }
 }
 

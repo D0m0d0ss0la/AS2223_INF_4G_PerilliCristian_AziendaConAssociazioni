@@ -40,7 +40,7 @@ namespace UnitTestAzienda
                 catch (Exception e) { Assert.IsTrue(false, "Too many data inside the file, readin can't be don"); }
             }
 
-            Assert.IsTrue(true, "No issues with the description");
+            Assert.IsTrue(true, "No issues with the description"); // -
 
         }
     }
